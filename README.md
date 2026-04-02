@@ -6,7 +6,7 @@ A modern, interactive finance dashboard built with **React.js** for tracking inc
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) <!-- Add your deployed URL here -->
+[View Live Demo](https://shannuthota.github.io/finance-dashboard/) <!-- Deployed on GitHub Pages -->
 
 ## ✨ Features
 
@@ -78,7 +78,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/finance-dashboard.git
+git clone https://github.com/SHANNUTHOTA/finance-dashboard.git
 cd finance-dashboard
 
 # Install dependencies
